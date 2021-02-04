@@ -10,6 +10,8 @@ I dont think anybody will download this anyway...
 
 !!!!REMEMBER TO USE JDK TO RUN THIS FILE, YOU CAN USE JDK 8 AND ABOVE!!!!
 
+This program NEEDS JDK 8 or above to work
+
 Enjoy!
 :)
 
