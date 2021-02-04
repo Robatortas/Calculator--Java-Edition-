@@ -8,6 +8,8 @@ Simply run the Calculator "Java Edition.exe"
 now you can start cheating in online classes!
 I dont think anybody will download this anyway...
 
+!!!!REMEMBER TO USE JDK TO RUN THIS FILE, YOU CAN USE JDK 8 AND ABOVE!!!!
+
 Enjoy!
 :)
 
